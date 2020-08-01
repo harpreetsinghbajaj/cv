@@ -29,10 +29,10 @@ $ step2
 Sh interface 
 
 # Tasks
-## 	Task 1
-### 		Description 
-		acquire knowledge 
-### 		Responsibilities 
-			1. Go throughe 
-### 		Skills
-			1. Understanding 
+## Task 1
+### Description 
+acquire knowledge 
+### Responsibilities 
+1. Go throughe 
+### Skills
+1. Understanding 
