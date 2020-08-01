@@ -1,27 +1,21 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Pre-requsites](#pre-requsites)
-* [Setup](#setup)
-
-## General info
-It gives information regarding the project
-
-## Technologies
-Project is created with:
-* tech1
-* tech2
-
-## Pre-requsites
-Make sure the following are setted up:
-* 1
-* 2
-
-## Setup
-To run this project, install it locally using make:
-
+# Project Description
 ```
-$ step1
-$ step2
+Static IP
+```
+
+# Tasks
+## Task 1
+### Description
+```
+Implemented C++ code to enhance CPE VNF of the VCM to support static IP address
+allocation to subscribers from vHSS
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
 ```
 
