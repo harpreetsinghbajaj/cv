@@ -1,38 +1,13 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Pre-requsites](#pre-requsites)
-* [Setup](#setup)
-
-## General info
-It gives information regarding the project
-
-## Technologies
-Project is created with:
-* tech1
-* tech2
-
-## Pre-requsites
-Make sure the following are setted up:
-* 1
-* 2
-
-## Setup
-To run this project, install it locally using make:
-
+# Project Description
 ```
-$ step1
-$ step2
-```
-
-# Description 
 Sh interface 
+```
 
 # Tasks
 ## Task 1
 ### Description
 ```
-acquire knowledge
+Acquired knowledge of IMS Technology from 3gpp 23228 specification
 ```
 ### Responsibilities
 ```
@@ -42,3 +17,65 @@ acquire knowledge
 ```
 1. Understanding
 ```
+
+## Task 2
+### Description
+```
+Updated using start UML the activity diagrams for business logic of UDR, PUR,
+SNR and PNR messages from release 7 to 11 of 3gpp specifications 29328 and
+29329 of sh interface
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
+```
+
+## Task 3
+### Description
+```
+Migrated from C based Single Threaded Radcom stack to C++ based Multi-Threaded
+Openblox Diameter stack for UDR and PUR messages
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
+```
+
+## Task 4
+### Description
+```
+Automated Unit testing using Seagull for sh interface messages using bash
+shell scripting
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
+```
+
+## Task 5
+### Description
+```
+Optimized PNR message business logic processing by creating XML templates that
+can be reused
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
+```
+
