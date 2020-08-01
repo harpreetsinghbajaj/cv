@@ -1,27 +1,38 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Pre-requsites](#pre-requsites)
-* [Setup](#setup)
-
-## General info
-It gives information regarding the project
-
-## Technologies
-Project is created with:
-* tech1
-* tech2
-
-## Pre-requsites
-Make sure the following are setted up:
-* 1
-* 2
-
-## Setup
-To run this project, install it locally using make:
-
+# Project Description
 ```
-$ step1
-$ step2
+vnf scaling
+```
+
+# Tasks
+## Task 1
+### Description
+```
+Implemented C/C++ code using ESXI APIs to scale up/down by spawning/destroying
+a new/existing Virtual machine when the traffic rate in the system
+exceeds/decreases the threshold value
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
+```
+
+## Task 2
+### Description
+```
+Implemented C code to select the available/allocated service instance in the
+opensaf cluster and assign/remove it to/from the VNF hosted in the
+newly/existing spawned/destroyed VM
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
 ```
 

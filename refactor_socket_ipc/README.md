@@ -1,27 +1,21 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Pre-requsites](#pre-requsites)
-* [Setup](#setup)
-
-## General info
-It gives information regarding the project
-
-## Technologies
-Project is created with:
-* tech1
-* tech2
-
-## Pre-requsites
-Make sure the following are setted up:
-* 1
-* 2
-
-## Setup
-To run this project, install it locally using make:
-
+# Project Description
 ```
-$ step1
-$ step2
+Refactor code
+```
+
+# Tasks
+## Task 1
+### Description
+```
+Refactored code using Bridge Design Pattern for socket based inter process
+communication over TCP/UDP
+```
+### Responsibilities
+```
+1. Go throughe
+```
+### Skills
+```
+1. Understanding
 ```
 
